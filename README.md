@@ -24,7 +24,7 @@
 
 ## 🤝 Contributing
 
-This is currently a small project for fun, and I'm still trying to add more interesting gameplay to the running-Pikachu. If you have any **suggestions** or **ideas**, feel free to leave me a message!!!
+This is currently a small project for **fun** and **study**, and I'm still trying to add more interesting gameplay to the running-Pikachu. If you have any **suggestions** or **ideas**, feel free to leave me a message!!!
 
 
 ## 🚀 Get Started
