@@ -1,0 +1,36 @@
+.pet-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  pointer-events: none;
+  /* background: rgba(160, 160, 160, 0.314); */
+
+  .pet {
+    position: absolute;
+    width: 120px;
+    height: auto;
+    cursor: pointer;
+    pointer-events: auto;
+    user-select: none;
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.1);
+    }
+
+    .progress {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: 2px;
+      background: rgb(255, 245, 106);
+      transition: width 0.5s ease-in-out;
+    }
+    
+  }
+  
+
+  
+  
+
+}
+

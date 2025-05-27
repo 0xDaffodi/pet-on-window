@@ -1,0 +1,15 @@
+html {
+  
+  
+  &[data-prefers-color-scheme="light"] {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+  }
+
+  &[data-prefers-color-scheme="dark"] {
+    --bg-color: #000000;
+    --text-color: #ffffff;
+    
+  }
+}
+
